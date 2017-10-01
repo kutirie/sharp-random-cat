@@ -1,0 +1,11 @@
+C:\Users\alexey\source\repos\RandomCats\RandomCats\bin\Debug\RandomCats.exe.config
+C:\Users\alexey\source\repos\RandomCats\RandomCats\bin\Debug\RandomCats.exe
+C:\Users\alexey\source\repos\RandomCats\RandomCats\bin\Debug\RandomCats.pdb
+C:\Users\alexey\source\repos\RandomCats\RandomCats\obj\Debug\RandomCats.csprojResolveAssemblyReference.cache
+C:\Users\alexey\source\repos\RandomCats\RandomCats\obj\Debug\RandomCats.MainForm.resources
+C:\Users\alexey\source\repos\RandomCats\RandomCats\obj\Debug\RandomCats.Properties.Resources.resources
+C:\Users\alexey\source\repos\RandomCats\RandomCats\obj\Debug\RandomCats.csproj.GenerateResource.Cache
+C:\Users\alexey\source\repos\RandomCats\RandomCats\obj\Debug\RandomCats.csproj.CoreCompileInputs.cache
+C:\Users\alexey\source\repos\RandomCats\RandomCats\obj\Debug\RandomCats.exe
+C:\Users\alexey\source\repos\RandomCats\RandomCats\obj\Debug\RandomCats.pdb
+C:\Users\alexey\source\repos\RandomCats\RandomCats\obj\Debug\RandomCats.AboutForm.resources
